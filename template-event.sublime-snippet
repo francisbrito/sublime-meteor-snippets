@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Template.$0.events = {$1}]]></content>
+    <tabTrigger>mevents</tabTrigger>
+    <scope>source.js</scope>
+    <description>template events</description>
+</snippet>

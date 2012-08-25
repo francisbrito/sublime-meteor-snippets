@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[if (Meteor.is_server) {$0}]]></content>
+    <tabTrigger>mserver</tabTrigger>
+    <scope>source.js</scope>
+    <description>if meteor is server</description>
+</snippet>
