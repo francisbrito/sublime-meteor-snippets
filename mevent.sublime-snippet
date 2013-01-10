@@ -1,0 +1,14 @@
+<snippet>
+    <content>
+<![CDATA[
+Template.${1:myTemplate}.events({
+    '${2:click}': function() {
+        ${3:alert("clicked");}
+    }$4
+});
+]]>
+    </content>
+    <tabTrigger>mevents</tabTrigger>
+    <scope>source.js</scope>
+    <description>Updates a templates event collection.</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+    <content>
+<![CDATA[
+Meteor.startup(function () {
+    ${0://Clean-up databases, create default users, have a cup of coffee...}    
+});
+]]>
+    </content>
+    <tabTrigger>mstartup</tabTrigger>
+    <scope>source.js</scope>
+    <description>Sets start-up code.</description>
+</snippet>

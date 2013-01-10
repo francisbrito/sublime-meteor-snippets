@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+<![CDATA[
+{{> ${1:template_name}}}
+]]>
+    </content>
+    <tabTrigger>mtc</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

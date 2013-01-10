@@ -1,0 +1,12 @@
+<snippet>
+    <content>
+<![CDATA[
+if (Meteor.isClient) {
+    ${0://Awesome client-side code goes here.}
+}
+]]>
+    </content>
+    <tabTrigger>mclient</tabTrigger>
+    <scope>source.js</scope>
+    <description>Determines if code is running in client environment.</description>
+</snippet>

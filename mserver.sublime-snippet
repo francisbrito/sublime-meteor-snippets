@@ -1,0 +1,11 @@
+<snippet>
+    <content>
+<![CDATA[
+if (Meteor.isServer) {
+    ${0://Awesome server-side code goes here.}
+}
+]]></content>
+    <tabTrigger>mserver</tabTrigger>
+    <scope>source.js</scope>
+    <description>Determines if code is running in server environment.</description>
+</snippet>

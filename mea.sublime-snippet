@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+<![CDATA[
+{{#each ${1:collection}}}
+	${2:content}
+{{/each}}
+]]>
+    </content>
+	<tabTrigger>mea</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
