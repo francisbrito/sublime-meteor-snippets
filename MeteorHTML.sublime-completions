@@ -1,8 +1,0 @@
-{
-	"scope": "text.html - source - meta.tag, punctuation.definition.tag.begin",
-
-	"completions":
-	[
-		{ "trigger": "template", "contents": "<template name=\"$1\">$2</template>" }
-	]
-}

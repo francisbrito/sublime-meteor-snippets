@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[if (Meteor.is_client) {$0}]]></content>
-    <tabTrigger>mclient</tabTrigger>
-    <scope>source.js</scope>
-    <description>if meteor is client</description>
-</snippet>
